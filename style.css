@@ -1,0 +1,67 @@
+* {margin:0; padding:0;}
+body {background:url(images/bg-bar.png) top; background-size:100%; font-family:Arial, Helvetica, sans-serif; color:#FFF;}
+
+/********** CLASSES **********/
+
+.c10{width:10%;} .c20{width:20%;} .c30{width:30%;} .c40{width:40%;} .c50{width:50%;} .c60{width:60%;} .c70{width:70%;} .c80{width:80%;} .c90{width:90%;} .c100{width:100%;}
+.c15{width:15%;} .c25{width:25%;} .c35{width:35%;} .c45{width:45%;} .c55{width:55%;} .c65{width:65%;} .c75{width:75%;} .c85{width:85%;} .c95{width:95%;}
+
+.float-l {float:left;} .float-r {float:right;}
+.center {margin:0 auto; display:block;}
+.txt-center{text-align:center;}
+.txt-right {text-align:right;}
+
+.margin-top-min {margin-top:4%;}
+.margin-top-mid {margin-top:8%;}
+.margin-bot-min {margin-bottom:4%;}
+.margin-bot-mid {margin-botttom:8%;}
+
+/********** /CLASSES **********/
+
+.iten-indice { background:#666; position:relative;}
+
+.bg-indice { position:absolute; margin-top:3.4%; box-shadow:2px 2px 3px #111;
+background: -moz-linear-gradient(top,  rgba(185,171,165,0.92) 0%, rgba(118,85,72,0.92) 49%, rgba(80,42,25,0.92) 50%, rgba(81,42,25,0.92) 99%, rgba(116,93,81,0.92) 100%); /* FF3.6+ */
+background: -webkit-linear-gradient(top,  rgba(185,171,165,0.92) 0%,rgba(118,85,72,0.92) 49%,rgba(80,42,25,0.92) 50%,rgba(81,42,25,0.92) 99%,rgba(116,93,81,0.92) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  rgba(185,171,165,0.92) 0%,rgba(118,85,72,0.92) 49%,rgba(80,42,25,0.92) 50%,rgba(81,42,25,0.92) 99%,rgba(116,93,81,0.92) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  rgba(185,171,165,0.92) 0%,rgba(118,85,72,0.92) 49%,rgba(80,42,25,0.92) 50%,rgba(81,42,25,0.92) 99%,rgba(116,93,81,0.92) 100%); /* IE10+ */
+background: linear-gradient(to bottom,  rgba(185,171,165,0.92) 0%,rgba(118,85,72,0.92) 49%,rgba(80,42,25,0.92) 50%,rgba(81,42,25,0.92) 99%,rgba(116,93,81,0.92) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ebb9aba5', endColorstr='#eb745d51',GradientType=0 ); /* IE6-9 */
+}
+.iten-indice img {position:absolute; border:solid 6px #FFF; border-radius:18px; box-shadow: 3px 3px 8px #000;}
+.bg-indice p { width:80%; font-size:200%; padding:2.5%; font-weight:100;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer { width:100%;position:absolute; bottom:1%; color:#FFFFFF; font-weight:normal;}
